@@ -49,7 +49,7 @@
         </div>
         <button
           type="submit"
-          class="btn bg-color my-4 d-block w-100"
+          class="btn bg-color my-4 d-block w-100 font-weight-bold"
         >
           ENVIAR MENSAJE
         </button>

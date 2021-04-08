@@ -32,10 +32,10 @@
         </h5>
         <p class="mb-4">{description}</p>
         <div class="buttons-container d-flex flex-column my-3">
-          <button class=" text-center bg-transparent mb-3">
-            <img  src="../assets/icon-github.svg" alt="">
+          <button class=" text-center bg-transparent mb-3 font-weight-bold">
+            <img   src="../assets/icon-github.svg" alt="button ver codigo">
             VER CÓDIGO</button>
-          <button class=" text-center bg-color">VER PROYECTO</button>
+          <button class=" text-center bg-color font-weight-bold">VER PROYECTO</button>
         </div>
       </div>
     </div>

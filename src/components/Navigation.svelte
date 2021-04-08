@@ -44,7 +44,7 @@
                 </nav>
             </div>
             <div class="col-6">
-                <button class="btn btn-color float-right">CURRÍCULUM</button>
+                <button class="btn btn-color float-right font-weight-bold">CURRÍCULUM</button>
             </div>
         </div>
     </div>
