@@ -1,7 +1,6 @@
 <script></script>
 
 <style>
-  
 .btn-color {
   background-color: #00e6b6;
   border: 2px solid #0F0A0A;
@@ -19,10 +18,10 @@
                 <a class="navbar-brand" href="#"><img src="../assets/logo.svg" alt=""></a>
             </div>
 
-            <div class="col-6">
+            <!-- <div class="col-6">
                 <button class="btn btn-color float-right">CURRÍCULUM</button>
-            </div>
-            <div class="col d-none ">
+            </div> -->
+            <div class="col d-none d-lg-block ">
 
                 <nav class="navbar navbar-expand-lg navbar-light ">
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -44,7 +43,9 @@
                     </div>
                 </nav>
             </div>
-
+            <div class="col-6">
+                <button class="btn btn-color float-right">CURRÍCULUM</button>
+            </div>
         </div>
     </div>
 </div>

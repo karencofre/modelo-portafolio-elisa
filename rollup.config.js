@@ -73,7 +73,7 @@ export default {
     // If we're building for production (npm run build
     // instead of npm run dev), minify
     production && terser(),
-    css({ output: "public/build/extra.css" }),
+    css({ output: "extra.css" }),
   ],
   watch: {
     clearScreen: false,
