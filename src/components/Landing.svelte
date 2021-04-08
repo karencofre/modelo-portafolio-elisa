@@ -5,7 +5,7 @@
 <div class="Landing">
 
     <div class="container">
-        <div class="row mb-5">
+        <div class="row mb-5 d-lg-flex flex-lg-row-reverse">
             <div class="col-12 col-lg-6">
                 <img class="img-fluid w-80 my-5 mx-auto d-block " src="../assets/person.png" alt="elisa imagen" />
             </div>
