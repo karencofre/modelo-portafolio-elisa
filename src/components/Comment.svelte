@@ -19,8 +19,8 @@
         <img class="p-3"src="{image_profile}" alt="imagen persona">
       </div>
       <div class="col-12">
-        <p class="d-block mx-auto font-weight-bold">{comment}</p>
-        <small class="d-block mx-auto">{source_text}</small>
+        <p class="d-block mx-auto font-weight-bold text-center">{comment}</p>
+        <small class="d-block mx-auto text-center">{source_text}</small>
       </div>
     </div>
   </div>
