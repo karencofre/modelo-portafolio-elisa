@@ -5,7 +5,7 @@
 <div class="Landing">
 
     <div class="container">
-        <div class="row mb-5 d-lg-flex flex-lg-row-reverse d-lg-inline-block align-lg-middle">
+        <div class="row mb-5 d-lg-flex flex-lg-row d-lg-inline-block align-lg-middle">
         
             <div class="col-12 col-lg-6 d-block mx-auto my-auto">
                 <h3>¡Hola a todos!</h3>
